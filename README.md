@@ -29,7 +29,7 @@ The database consists of the following tables:
 - 🏢 `Staff`
 
 ### 📊 ER Diagram
-(Include an ER diagram image here if available)
+![image](https://github.com/user-attachments/assets/e0071da5-7f8d-4f5e-bd16-45de7785e258)
 
 ### 🛠 Database Schema (SQL Code)
 ```sql
