@@ -189,5 +189,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 Contact
 
-For questions, contact [your-email@example.com](mailto\:your-email@example.com).
+For questions, contact [your-email@example.com](amrr.salem@gmail.com).
 
